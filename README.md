@@ -1,1 +1,1 @@
-The inference and test results  are available at [Google Drive](https://drive.google.com/file/d/1ZrAJgGJ3catBCOPX_eTCmjvqUYzoNhIz/view?usp=sharing) or [Baidu Netdisk]https://pan.baidu.com/s/1XhLvX8QSSb4MU4HHvZ6dcQ) (access code: PIXU).
+The inference and test results  are available at [Google Drive](https://drive.google.com/file/d/1ZrAJgGJ3catBCOPX_eTCmjvqUYzoNhIz/view?usp=sharing) or [Baidu Netdisk](https://pan.baidu.com/s/1XhLvX8QSSb4MU4HHvZ6dcQ) (access code: PIXU).
